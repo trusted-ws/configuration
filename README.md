@@ -1,1 +1,1 @@
-# tmux-configuration
+### Linux Terminal Configuration
